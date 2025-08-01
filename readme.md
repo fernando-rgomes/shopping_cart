@@ -1,6 +1,6 @@
 ## Objetivo 
 
-Criar um carrinho de compras genérico, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente 
+Criar um carrinho de compras, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente 
 
 //dominio da aplicação: carrinho de compras
 
